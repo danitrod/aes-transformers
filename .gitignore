@@ -1,4 +1,5 @@
 AES.nosync
+.DS_Store
 *.csv
 *.txt
 
